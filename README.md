@@ -38,3 +38,20 @@ Para verificar a rota `/check` a cada hora, use serviços como:
 
 ## 📂 Estrutura do Projeto
 
+pokemon-go-monitor/
+├── main.py
+├── requirements.txt
+├── post_history.json # Será criado automaticamente
+└── README.md
+
+
+## ✅ Requisitos
+
+- Python 3.7+
+- Conta gratuita no Render
+- Canal no Discord com Webhook configurado
+
+---
+
+Feito com ❤️ por @kaioarena
+
